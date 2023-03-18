@@ -1,0 +1,58 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body {
+	background-color: #f2f2f2;
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 40px 20px;
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 40px;
+}
+
+button {
+	font-size: 24px;
+	padding: 10px 20px;
+	background-color: #4CAF50;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
+.scoreboard {
+	margin-top: 40px;
+}
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+	width: 80%;
+}
+
+th {
+	background-color: #4CAF50;
+	color: white;
+	padding: 12px 15px;
+	text-align: center;
+	border: 1px solid #ddd;
+}
+
+td {
+	padding: 12px 15px;
+	text-align: center;
+	border: 1px solid #ddd;
+}
